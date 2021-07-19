@@ -13,5 +13,5 @@ https://youtu.be/FDuArQuRIQ4
 - Enabled landing
 - Moving birds above building
 - Sunlight lighting
-- Red lighths on runway
+- Red lights on runway
 - Skybox included
